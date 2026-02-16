@@ -1,12 +1,12 @@
-<img width="1080" height="600" alt="image" src="https://github.com/user-attachments/assets/e4c99604-9162-41b6-ba81-95eb1bcfd5a8" />
+<img width="1192" height="543" alt="image" src="https://github.com/user-attachments/assets/8058c86e-48d3-43df-b58d-258a6a6d46db" />
 
 <br/>
 <br/>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Malware+Analyst;Reverse+Engineer&center=true&width=500&height=45">
 </p>
-<p align="center"><em>Just a Noob<br>
-  Trying to be the best
+<p align="center"><em>A Noob<br>
+  Tries to be the best
   <br/>
   <br/>
 </em></p>
